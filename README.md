@@ -1,4 +1,6 @@
 # Манипулятор для работы с пробирками
+![ScreenShot](/photos/photo_2020-11-13_17-46-02.jpg)
+
 ![img1](https://github.com/sdupak/tube_manipulator/blob/master/photos/photo_2020-11-13_17-46-02.jpg)
 
 ## Видео
